@@ -35,4 +35,5 @@ git remote add origin [저장소 주소]
 - craco 로 절대 경로 import 가 가능함
 - `styled-components` 설치
 - `GlobalStyle` 추가
+- react-router-dom 추가
 - 불필요한 파일 제거
